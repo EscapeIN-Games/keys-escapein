@@ -1,0 +1,15 @@
+{
+  "name": "escapein-api",
+  "version": "1.0.0",
+  "description": "API serverless para envio de chaves EscapeIN Games",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "firebase-admin": "^11.10.1",
+    "node-fetch": "^2.6.7",
+    "resend": "^6.0.2"
+  }
+}
