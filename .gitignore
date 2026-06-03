@@ -1,4 +1,4 @@
 echo "node_modules
 .env
 .env.local
-.vercel" > .gitignore
+.vercel" > .gitignore.vercel
